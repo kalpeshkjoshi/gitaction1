@@ -34,5 +34,5 @@ outputs:
   object_location:
     description: 'object location'
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'uploads3.js'
