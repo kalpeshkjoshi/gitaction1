@@ -1,3 +1,4 @@
+name: Composite Hello
 on: [push]
 jobs:
   hello_world_job:
